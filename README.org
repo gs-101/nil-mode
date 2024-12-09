@@ -1,0 +1,7 @@
+#+title: Nil Mode - A Major Mode For Nothing
+
+#+html: <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Black_hole_-_Messier_87.jpg" align="right" width="30%">
+
+Ever tried to edit an Org source block with no mode defined, and then got surprised Emacs didn't have a nil-mode? Well, then consider this package, as it adds what you may want: absolutely nothing!
+
+Just kidding. This package just defines a major mode derived from ~fundamental-mode~ called ~nil-mode~, so you can open your source blocks just fine.
