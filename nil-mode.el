@@ -1,6 +1,6 @@
 ;;; nil-mode.el --- A major mode meant for doing nothing -*- lexical-binding: t -*-
 
-;; Copyright (C) 2024 Gabriel Santos
+;; Copyright (C) 2025 Gabriel Santos
 
 ;; Author: Gabriel Santos
 ;; URL: https://github.com/gs-101/nil-mode
